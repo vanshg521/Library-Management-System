@@ -1,0 +1,22 @@
+D:\resource\LibraryWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.deps.json
+D:\resource\LibraryWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.dll
+D:\resource\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csprojAssemblyReference.cache
+D:\resource\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
+D:\resource\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
+D:\resource\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
+D:\resource\LibraryWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.runtimeconfig.json
+D:\resource\LibraryWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.runtimeconfig.dev.json
+D:\resource\LibraryWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.pdb
+D:\resource\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.dll
+D:\resource\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.pdb
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.deps.json
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.runtimeconfig.json
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.runtimeconfig.dev.json
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.dll
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.pdb
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csprojAssemblyReference.cache
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.dll
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.pdb

@@ -1,0 +1,32 @@
+D:\resource\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryWebApp.deps.json
+D:\resource\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryWebApp.runtimeconfig.json
+D:\resource\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryWebApp.runtimeconfig.dev.json
+D:\resource\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryWebApp.dll
+D:\resource\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.csprojAssemblyReference.cache
+D:\resource\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.csproj.CoreCompileInputs.cache
+D:\resource\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.AssemblyInfoInputs.cache
+D:\resource\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.AssemblyInfo.cs
+D:\resource\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryWebApp.pdb
+D:\resource\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryData.dll
+D:\resource\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryData.pdb
+D:\resource\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.csproj.CopyComplete
+D:\resource\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.dll
+D:\resource\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.pdb
+D:\resource\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryServices.dll
+D:\resource\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryServices.pdb
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryWebApp.deps.json
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryWebApp.runtimeconfig.json
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryWebApp.runtimeconfig.dev.json
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryWebApp.dll
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryWebApp.pdb
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryData.dll
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryServices.dll
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryData.pdb
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\bin\Debug\netcoreapp2.0\LibraryServices.pdb
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.csprojAssemblyReference.cache
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.csproj.CoreCompileInputs.cache
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.AssemblyInfoInputs.cache
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.AssemblyInfo.cs
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.csproj.CopyComplete
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.dll
+D:\2018\ASP\N01216690-Zhengxu Liu-Project final submission\LibraryWebApp\LibraryWebApp\obj\Debug\netcoreapp2.0\LibraryWebApp.pdb
